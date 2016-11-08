@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 # ${1:Nest PHP}
 TODO: Write a project description
 ## Installation
@@ -12,6 +10,3 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
