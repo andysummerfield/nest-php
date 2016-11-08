@@ -1,4 +1,4 @@
-# ${1:Nest PHP}
+# Nest PHP
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
